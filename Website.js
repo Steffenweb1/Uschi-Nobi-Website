@@ -186,3 +186,4 @@ document.addEventListener("scroll", () => {
         insta.classList.remove("scrolled");
     }
 });
+
