@@ -57,7 +57,7 @@ const shows = [
   { date: "2026-08-15", location: "Hallstadt - Kirchweih", time: "ab 18:00 Uhr", address: "Lichtenfelser Straße 7, 96103 Hallstadt" },
   { date: "2026-08-16", location: "Hallstadt - Kirchweih", time: "ab 18:00 Uhr", address: "Lichtenfelser Straße 7, 96103 Hallstadt" },
   { date: "2026-09-14", location: "Deusdorf - Kirchweih", time: "Uhrzeit wird noch bekannt gegeben", address: "Festplatz am Kirchberg, 96196 Lauter - Deusdorf" },
-  { date: "2026-09-05", location: "Diana Schützenclub e.V. - Schützenfest", time: "17:00 Uhr", address: "Altenburg 1, 96049 Bamberg" },
+  { date: "2026-09-05", location: "Diana Schützenclub e.V. - Schützenfest auf der Altenburg Bamberg", time: "17:00 Uhr", address: "Altenburg 1, 96049 Bamberg" },
   { date: "2026-10-17", location: "Hirschaid - Schützen Proklamation", time: "Beginn: 19:00 Uhr", address: "Nürnberger Str. 96 -100, 96114 Hirschaid" },
   { date: "2026-11-07", location: "Oberhaid - Burschen und Madla - Bockbieranstich", time: "Beginn: 19:00 Uhr", address: "Saal Brauerei Wagner - Bamberger Straße 2, 96173 Oberhaid" },
   { date: "2027-01-23", location: "SV Dörfleins - Fasching", time: "Beginn: 19:50 Uhr", address: "Sportlerheim SV Dörfleins - Flurstraße 6, 96103 Dörfleins" },
