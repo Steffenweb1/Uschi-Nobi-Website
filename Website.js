@@ -46,11 +46,9 @@ faders.forEach(el => observer.observe(el));
 
 // ===== Shows (Monatswechsel) =====
 const shows = [
-  { date: "2026-06-04", location: "Hallstadt - Feuerwehrfest", time: "Uhrzeit wird noch bekannt gegeben", address: "An der Feuerwehr 1, 96103 Hallstadt" },
-  { date: "2026-06-20", location: "Bamberg/Geisfeld - Regnitztaler Alm", time: "Uhrzeit wird noch bekannt gegeben", address: "Regnitztaler Alm 1, 96047 Bamberg" },
   { date: "2026-07-13", location: "Roßdorf am Forst - Kirchweih", time: "Beginn: 18:00 Uhr", address: "Sutte 5, 96129 Strullendorf - Roßdorf" },
   { date: "2026-07-19", location: "Bamberg Wunderburger - Kirchweih", time: "17:00 bis 21:00 Uhr", address: "Wunderburg 6, 96050 Bamberg" },
-  { date: "2026-07-25", location: "Trosdorf - Stichelfest", time: "Uhrzeit wird noch bekannt gegeben", address: "96120 Trosdorf" },
+  { date: "2026-07-25", location: "Trosdorf - Stichelfest", time: "18:00 bis 23:00 Uhr", address: "Krönersberg, 96120 Trosdorf" },
   { date: "2026-07-27", location: "Hallstadt Anna - Kirchweih", time: "Beginn: 18:00 Uhr", address: "SV Hallstadt am Sportplatz, 96103 Hallstadt" },
   { date: "2026-08-08", location: "Bamberg Laurenzikirchweih - Brauerei Greifenklau", time: "17:00 bis 22:00 Uhr", address: "Laurenziplatz 20, 96049 Bamberg" },
   { date: "2026-08-09", location: "Bamberg Laurenzikirchweih - Brauerei Greifenklau", time: "17:00 bis 22:00 Uhr", address: "Laurenziplatz 20, 96049 Bamberg" },
